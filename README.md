@@ -1,6 +1,6 @@
-# 👋 Hi, there I'm Leonardo Kleimpaul!
+<h1 align="center">👋 Hi, there I'm Leonardo Kleimpaul!</h1>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" align="right">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" align="right">
 
 Sou um desenvolvedor em aprendizado, apaixonado por tecnologia e programação. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade do Oeste de Santa Catarina e tenho como objetivo me tornar um profissional qualificado e criativo na área de desenvolvimento.
 
